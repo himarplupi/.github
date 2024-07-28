@@ -1,5 +1,3 @@
-# HIMARPL - Himpunan Mahasiswa Rekayasa Perangkat Lunak
-
 <p align="center">
   <br />
   <a href="https://www.himarpl.com">
@@ -9,6 +7,8 @@
     </picture>
   </a>
 </p>
+
+## HIMARPL - Himpunan Mahasiswa Rekayasa Perangkat Lunak
 
 HIMARPL adalah organisasi kemahasiswaan dari program studi Rekayasa Perangkat Lunak di Universitas Pendidikan Indonesia (UPI) kampus Cibiru. 
 Kami berfokus pada pengembangan kemampuan teknis dan soft skills mahasiswa dalam bidang perangkat lunak, serta memfasilitasi kolaborasi antar mahasiswa.
