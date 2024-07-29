@@ -26,7 +26,7 @@ Kami sangat terbuka untuk kontribusi dari komunitas. Setiap project memiliki pan
 ## 🍿 Fun Facts
 
 Maskot resmi HIMARPL adalah burung phoenix bernama `Sonix`, yang sering muncul dalam beberapa kegiatan kami. 
-Maskot ini juga menjadi inspirasi untuk nama project [bot-himarpl](https://github.com/himarplupi/bot-himarpl) yaitu `Phoienix-chan`
+Maskot ini juga menjadi inspirasi untuk nama project [bot-himarpl](https://github.com/himarplupi/bot-himarpl) yaitu `Phoenix-chan`
 
 <p align="center">
   <br />
