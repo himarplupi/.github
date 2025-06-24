@@ -21,7 +21,7 @@ Kami sangat terbuka untuk kontribusi dari komunitas. Setiap project memiliki pan
 
 - [Dokumentasi Lengkap](https://docs.himarpl.com): Semua yang perlu Anda ketahui tentang kontribusi, pengembangan, dan penggunaan project kami.
 - [Blog HIMARPL](https://blog.himarpl.com): Artikel, tutorial, dan berita terbaru seputar HIMARPL dan dunia Rekayasa Perangkat Lunak.
-- [Website HIMARPL](https://www.himarpl.com): Mengenal lebih dekat dengan Himpunan Mahasiswa Rekayasa Perangkat Lunak.
+- [Website HIMARPL](https://www.himarpl.org): Mengenal lebih dekat dengan Himpunan Mahasiswa Rekayasa Perangkat Lunak.
 
 ## 🍿 Fun Facts
 
